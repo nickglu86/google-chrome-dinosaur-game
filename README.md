@@ -1,7 +1,7 @@
  
 
-#[Google Chrome Dinosaur Game](https://nickglu86.github.io/google-chrome-dinosaur-game/#
-![alt Google Chrome Dinogame screenshot](https://nickglu86.github.io/google-chrome-dinosaur-game/dino.png)
+# [Google Chrome Dinosaur Game](https://nickglu86.github.io/google-chrome-dinosaur-game/)
+![alt Google Chrome Dinogame screenshot](https://9to5google.com/wp-content/uploads/sites/4/2018/09/chrome-offline-dino-game.jpg)
 
 T-Rex Dinosaur - a replica of the hidden game from Chrome offline mode.
 
